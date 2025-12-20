@@ -12,7 +12,7 @@
 > *あなたに最高の幸運がありますように!*
 
 翻訳：
-- [中文版本](translations/README-cn.md)
+- [简体中文](translations/README-cn.md)
 - [TiếngViệt - ベトナム語](translations/README-vi.md)
 - [Español](translations/README-es.md)
 
@@ -33,14 +33,6 @@
 - [Urdu](https://github.com/jwasham/coding-interview-university/issues/140)
 - [タイ語](https://github.com/jwasham/coding-interview-university/issues/156)
 - [ギリシャ語](https://github.com/jwasham/coding-interview-university/issues/166)
-
-<div align="center">
-	<hr />
-    <p>
-        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
-    </p>
-    <hr />
-</div>
 
 ## これは何？
 

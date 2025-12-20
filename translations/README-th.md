@@ -6,7 +6,7 @@
 > *ขอให้คุณโชคดี!*
 
 ภาษาอื่นๆ:
-- [中文版本](translations/README-cn.md)
+- [简体中文](translations/README-cn.md)
 - กำลังดำเนินการแปลภาษา:
     - [Español](https://github.com/jwasham/coding-interview-university/issues/80)
     - [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
@@ -26,13 +26,7 @@
     - [Urdu](https://github.com/jwasham/coding-interview-university/issues/140)
     - [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
 
-<div align="center">
-	<hr />
-    <p>
-        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
-    </p>
-    <hr />
-</div>
+
 
 ## นี่คืออะไร ?
 
